@@ -1,4 +1,4 @@
-# NLP-movie-recpmmender-system  
+# NLP Movie Recommender System  
 In today’s digital age, the vast array of entertainment content, especially movies, has grown tremendously, often making it challenging for users to find films that suit their tastes. A recommendation system serves as a valuable tool to help users discover relevant and engaging movies based on their preferences. One effective strategy for developing such a system is to leverage Natural Language Processing (NLP), which can comprehend and analyze descriptive data about movies, including synopses, genres, cast, and production teams. By using this content-based approach, the system can deliver more tailored and appropriate movie suggestions without depending on user interactions.
 
 Dataset Link :
